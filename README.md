@@ -7,4 +7,6 @@ drive.mount('/content/drive', force_remount=True)
 ```
 # Link :
 
-[Click Here](https://td.msgsuite.workers.dev/)
+[Create Shared Drive](https://td.msgsuite.workers.dev/)
+[Google Drive](https://td.msgsuite.workers.dev/)
+[Google Colab](https://td.msgsuite.workers.dev/)
